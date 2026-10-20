@@ -1772,6 +1772,24 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Realtek ALC245 for HP Victus 16-s1023dx</string>
+					<key>CodecID</key>
+					<integer>283902533</integer>
+					<key>ConfigData</key>
+					<data>AUccEAFHHQEBRx4XAUcfkAFHDAIBlxwwAZcdEAGXHoEBlx8DAhccIAIXHRACFx4hAhcfAwIXDAI=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>21</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgIXDAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>lunjielee - Realtek ALC245 for HP Omen 2020</string>
 					<key>CodecID</key>
 					<integer>283902533</integer>
