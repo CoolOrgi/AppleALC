@@ -14,6 +14,22 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>HP Victus 16-s1023dx: speaker 0x14 on DAC 2, headphone 0x21 on DAC 3</string>
+				<key>Id</key>
+				<integer>23</integer>
+				<key>Path</key>
+				<string>layout23.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>HP Victus 16-s1023dx: speaker 0x14 + headphone 0x21 both on DAC 2</string>
+				<key>Id</key>
+				<integer>22</integer>
+				<key>Path</key>
+				<string>layout22.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>HP Victus 16-s1023dx: speaker 0x14, headphone 0x21 (based on layout 13)</string>
 				<key>Id</key>
 				<integer>21</integer>
@@ -47,6 +63,22 @@
 		</array>
 		<key>Platforms</key>
 		<array>
+			<dict>
+				<key>Comment</key>
+				<string>HP Victus 16-s1023dx: speaker 0x14 on DAC 2, headphone 0x21 on DAC 3</string>
+				<key>Id</key>
+				<integer>23</integer>
+				<key>Path</key>
+				<string>Platforms23.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>HP Victus 16-s1023dx: speaker 0x14 + headphone 0x21 both on DAC 2</string>
+				<key>Id</key>
+				<integer>22</integer>
+				<key>Path</key>
+				<string>Platforms22.xml.zlib</string>
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>HP Victus 16-s1023dx: speaker 0x14, headphone 0x21 (based on layout 13)</string>
